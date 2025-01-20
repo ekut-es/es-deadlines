@@ -129,16 +129,16 @@
 - title: ICCAD
   year: 2025
   id: iccad23
-  link: https://www.iccad-conf.com/
-  deadline: '2025-01-31 23:59:59'
-  abstract_deadline: '2025-01-31 23:59:59'
+  link: https://2025.iccad.com/
+  deadline: '2025-04-21 23:59:59'
+  abstract_deadline: '2025-04-14 23:59:59'
   timezone: Etc/GMT
-  date: July 1 - 3, 2025
-  start: 2025-07-01
-  end: 2025-07-03
-  place: Barcelona, Spain
+  date: October 26 - 30, 2025
+  start: 2025-10-26
+  end: 2025-10-30
+  place: Munich, Germany
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/call-for-paper/'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iccad25/uploads/iccad25-cfp_web-05.pdf'>HTML</a>.
 
 - title: MBMV
   year: 2023
