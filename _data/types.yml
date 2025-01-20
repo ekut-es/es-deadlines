@@ -1,13 +1,19 @@
 ---
 - name: Embedded Systems (General)
   sub: ES
+  color: "#ffd300"
 - name: Timing Analysis
   sub: TA
+  color: "#deff0a"
 - name: Computer Architecture
   sub: CA
+  color: "#0aefff"
 - name: Low Power
   sub: LP
+  color: "#147df5"
 - name: Software Engineering
   sub: SE
+  color: "#580aff"
 - name: Software Testing
   sub: ST
+  color: "#0aff99"

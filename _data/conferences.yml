@@ -6,8 +6,11 @@
   id: date2024
   link: https://www.date-conference.com
   deadline: '2024-09-15 23:59:59'
+  abstract_deadline: '2024-09-15 23:59:59'
   timezone: Etc/GMT+12
   date: March 31 - April 2, 2025
+  start: 2025-03-31
+  end: 2025-04-02
   place: Lyon, France
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/DATE2025-Call-for-Papers-print.pdf'>PDF</a>.
@@ -17,8 +20,11 @@
   id: etfa2025
   link: https://etfa2025.ieee-ies.org
   deadline: '2025-04-18 23:59:59'
+  abstract_deadline: '2025-04-18 23:59:59'
   timezone: Etc/GMT+12
   date: September 9 - 12, 2025
+  start: 2025-09-09
+  end: 2025-09-12
   place: Porto, Portugal
   sub: SE
   note: <b>Call for Papers:</b> <a href='https://etfa2025.ieee-ies.org/files/ETFA2025_CFP_v2.pdf'>PDF</a>.
@@ -28,8 +34,11 @@
   id: iscas2024
   link: https://2025.ieee-iscas.org/
   deadline: '2024-10-28 23:59:59'
+  abstract_deadline: '2024-10-28 23:59:59'
   timezone: Etc/GMT+12
   date: May 25 - 28, 2025
+  start: 2025-05-25
+  end: 2025-05-28
   place: London, UK
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://confcats-event-sessions.s3.amazonaws.com/iscas25/uploads/iscas25-cfp_web-19.pdf'>PDF</a>.
@@ -39,8 +48,11 @@
   id: isca2024
   link: https://iscaconf.org/isca2025/
   deadline: '2024-11-15 23:59:59'
+  abstract_deadline: '2024-11-15 23:59:59'
   timezone: Etc/GMT+12
   date: June 21 - 25, 2024
+  start: 2025-06-21
+  end: 2025-06-25
   place: Tokyo, Japan
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2025/submit/papers.php'>HTML</a>.
@@ -50,8 +62,11 @@
   id: asplos2024
   link: https://asplos-conference.org
   deadline: '2023-11-23 14:59:59'
+  abstract_deadline: '2023-11-23 14:59:59'
   timezone: Etc/GMT-4
   date: April 27 - May 1, 2024
+  start: 2025-04-27
+  end: 2025-05-01
   place: San Diego, CA, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.asplos-conference.org/asplos2024/cfp/'>HTML</a>.
@@ -61,8 +76,11 @@
   id: icpe2023
   link: https://icpe2023.spec.org
   deadline: '2022-10-14 23:59:59'
+  abstract_deadline: '2022-10-14 23:59:59'
   timezone: Etc/GMT+12
   date: Apr 15 - 19, 2023
+  start: 2025-04-15
+  end: 2025-04-19
   place: Coimbra, Portugal
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2023.spec.org/important-dates/'>HTML</a>.
@@ -72,8 +90,11 @@
   id: dac2023
   link: https://www.dac.com
   deadline: '2024-11-12 00:05:00'
+  abstract_deadline: '2024-11-12 00:05:00'
   timezone: Etc/GMT-7
   date: June 22 - 25, 2025
+  start: 2025-06-22
+  end: 2025-06-25
   place: San Francisco, California, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.dac.com/Conference/2025-Call-for-Contributions'>HTML</a>.
@@ -83,8 +104,11 @@
   id: aspdac2025
   link: https://www.dac.com
   deadline: '2024-06-05 23:59:59'
+  abstract_deadline: '2024-06-05 23:59:59'
   timezone: Etc/GMT+12
   date: January 20 - 23, 2025
+  start: 2025-01-20
+  end: 2025-01-23
   place: Tokyo, Japan
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.aspdac.com/aspdac2025/cfp/'>HTML</a>.
@@ -95,6 +119,7 @@
   id: ispass2023
   link: https://www.ispass.org/ispass2023/
   deadline: '2022-11-29 23:59:59'
+  abstract_deadline: '2022-11-29 23:59:59'
   timezone: Etc/GMT-4
   date: April, 2023
   place: Raleigh, NC, USA
@@ -106,8 +131,11 @@
   id: iccad23
   link: https://www.iccad-conf.com/
   deadline: '2025-01-31 23:59:59'
+  abstract_deadline: '2025-01-31 23:59:59'
   timezone: Etc/GMT
   date: July 1 - 3, 2025
+  start: 2025-07-01
+  end: 2025-07-03
   place: Barcelona, Spain
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad-conf.com/call-for-paper/'>HTML</a>.
@@ -117,6 +145,7 @@
   id: mbmv2023
   link: https://cca.informatik.uni-freiburg.de/mbmv23/
   deadline: '2023-01-27 23:59:59'
+  abstract_deadline: '2023-01-27 23:59:59'
   timezone: Etc/GMT-1
   date: March 23 - 24, 2023
   place: Freiburg, Germany
@@ -127,9 +156,12 @@
   year: 2025
   id: asap2023
   link: https://www.asap-2025.org/
-  deadline: '2025-02-14 23:59:59'
+  deadline: '2025-02-21 23:59:59'
+  abstract_deadline: '2025-02-14 23:59:59'
   timezone: Etc/GMT+12
   date: July 28 - 30, 2025
+  start: 2025-07-28
+  end: 2025-07-30
   place: Vancouver, Canada
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.asap-2025.org/calls-for-contributions'>HTML</a>.
@@ -138,9 +170,12 @@
   year: 2025
   id: islped2023
   link: http://www.islped.org/2025/
-  deadline: '2025-03-03 23:59:59'
+  deadline: '2025-03-10 23:59:59'
+  abstract_deadline: '2025-03-03 23:59:59'
   timezone: Etc/GMT+8
   date: August 6 - 8, 2023
+  start: 2025-08-06
+  end: 2025-08-08
   place: Iceland
   sub: LP
   note: <b>Call for Papers:</b> <a href='https://www.islped.org/2025/files/ISPED2025CfP.pdf'>PDF</a>.
@@ -150,6 +185,7 @@
   id: samosxxiii
   link: http://samos-conference.com
   deadline: '2023-03-17 23:59:59'
+  abstract_deadline: '2023-03-17 23:59:59'
   timezone: Etc/GMT+12
   date: July 2 - 6, 2023
   place: Samos Island, Greece
@@ -160,9 +196,12 @@
   year: 2025
   id: cases2022
   link: https://www.esweek.org/cases
-  deadline: '2025-03-23 23:59:59'
+  deadline: '2025-03-30 23:59:59'
+  abstract_deadline: '2025-03-23 23:59:59'
   timezone: Etc/GMT+12
   date: September 28-October 3, 2025
+  start: 2025-09-28
+  end: 2025-10-03
   place: Taipei, Taiwan
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PENDING</a>.
@@ -171,9 +210,12 @@
   year: 2025
   id: codesisss2022
   link: https://www.esweek.org/cases
-  deadline: '2025-03-23 23:59:59'
+  deadline: '2025-03-30 23:59:59'
+  abstract_deadline: '2025-03-23 23:59:59'
   timezone: Etc/GMT+12
   date: September 28-October 3, 2025
+  start: 2025-09-28
+  end: 2025-10-03
   place: Taipei, Taiwan
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/wp-content/uploads/2022/12/cfp_esweek.pdf'>PENDING</a>.
@@ -183,6 +225,7 @@
   id: arcs2023
   link: https://arcs-conference.org
   deadline: '2023-04-07 23:59:59'
+  abstract_deadline: '2023-04-07 23:59:59'
   timezone: Etc/GMT+12
   date: June 13 - 15, 2023
   place: Athens, Greece
@@ -194,6 +237,7 @@
   id: micro56
   link: https://www.microarch.org/micro56/
   deadline: '2023-04-28 23:59:59'
+  abstract_deadline: '2023-04-28 23:59:59'
   timezone: Etc/GMT-7
   date: October 28 - November 1, 2023
   place: Toronto, Canada
@@ -205,6 +249,7 @@
   id: fdl23
   link: http://fdl-conference.com/
   deadline: '2023-05-10 23:59:59'
+  abstract_deadline: '2023-05-10 23:59:59'
   timezone: Etc/GMT+12
   date: September 14 - 16, 2022
   place: Turin, Italy
@@ -216,8 +261,11 @@
   id: ets2025
   link: https://ets2025.taltech.ee/
   deadline: '2024-12-09 23:59:59'
+  abstract_deadline: '2024-12-09 23:59:59'
   timezone: Etc/GMT+12
   date: May 26-30, 2025
+  start: 2025-05-26
+  end: 2025-05-30
   place: Tallinn, Estonia
   sub: ST
   note: <b>Call for Papers:</b> <a href='http://ets2025.taltech.ee/files/cfp_ETS2025_v10.pdf'>HTML</a>.
@@ -227,8 +275,11 @@
   id: dsd2023
   link: https://dsd-seaa.com/
   deadline: '2025-04-15 23:59:59'
+  abstract_deadline: '2025-04-15 23:59:59'
   timezone: Etc/GMT+12
   date: September 10-12, 2025
+  start: 2025-09-10
+  end: 2025-09-12
   place: Salerno, Italy
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/dsd2025/'>HTML</a>.
@@ -238,8 +289,11 @@
   id: seaa2025
   link: https://dsd-seaa.com/
   deadline: '2025-04-15 23:59:59'
+  abstract_deadline: '2025-04-15 23:59:59'
   timezone: Etc/GMT+12
   date: September 10-12, 2025
+  start: 2025-09-10
+  end: 2025-09-12
   place: Salerno, Italy
   sub: SE
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa.com/seaa2025/'>HTML</a>.
@@ -249,8 +303,11 @@
   id: indin2025
   link: https://indin2025.ieee-ies.org/#/home
   deadline: '2025-02-15 23:59:59'
+  abstract_deadline: '2025-02-15 23:59:59'
   timezone: Etc/GMT+12
   date: July 12 - 15, 2025
+  start: 2025-07-12
+  end: 2025-07-15
   place: KunMing, China
   sub: SE
   note: <b>Call for Papers:</b> <a href='https://indin2025.ieee-ies.org/#/calls/callForPaper'>HTML</a>.
@@ -260,6 +317,7 @@
   id: hipeac2024
   link: https://www.hipeac.net/2024/munich
   deadline: '2023-06-01 23:59:59'
+  abstract_deadline: '2023-06-01 23:59:59'
   timezone: Etc/GMT+12
   date: Jan 14 - 19, 2023
   place: Munich, Germany
@@ -271,6 +329,7 @@
   id: iccd2023
   link: https://www.iccd-conf.com/Home.html
   deadline: '2023-06-09 23:59:59'
+  abstract_deadline: '2023-06-09 23:59:59'
   timezone: Etc/GMT+12
   date: November 6 - 8, 2023
   place: Washington DC, USA
@@ -282,6 +341,7 @@
   id: iiswc2023
   link: http://www.iiswc.org/
   deadline: '2023-06-14 23:59:59'
+  abstract_deadline: '2023-06-14 23:59:59'
   timezone: Etc/GMT+12
   date: October 1 - 3, 2023
   place: Ghent, Belgium
@@ -293,6 +353,7 @@
   id: sensys2023
   link: https://sensys.acm.org/2023/
   deadline: '2023-06-22 23:59:59'
+  abstract_deadline: '2023-06-22 23:59:59'
   timezone: Etc/GMT+12
   date: November 13-15, 2023
   place: Istanbul, Turkey
@@ -304,6 +365,7 @@
   id: hpca2024
   link: https://hpca-conf.org/2024/
   deadline: '2023-07-28 23:59:59'
+  abstract_deadline: '2023-07-28 23:59:59'
   timezone: Etc/GMT-4
   date: March 2-6, 2024
   place: Edinburgh, UK
@@ -315,6 +377,7 @@
   id: mlsys2024
   link: https://mlsys.org/
   deadline: TBA
+  abstract_deadline: TBA
   timezone: Etc/GMT+3
   date: May 13 - 16, 2024
   place: Santa Clara, CA, USA
